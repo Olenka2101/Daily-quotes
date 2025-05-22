@@ -14,12 +14,13 @@ A short, clear description of your project and its purpose.
 - [License](#license)
 
 ## 🎬 Demo
-![Screenshot 2025-05-22 145506](https://github.com/user-attachments/assets/4873d335-45d2-41b3-8f2a-a3fe3bac120c)
 First screen
-
-![Screenshot 2025-05-22 150703](https://github.com/user-attachments/assets/f50dfdc5-8c99-4dce-97bd-573d6d2d69e2)
+![Screenshot 2025-05-22 145506](https://github.com/user-attachments/assets/4873d335-45d2-41b3-8f2a-a3fe3bac120c)
 
 second screen
+![Screenshot 2025-05-22 150703](https://github.com/user-attachments/assets/f50dfdc5-8c99-4dce-97bd-573d6d2d69e2)
+
+
 
 
 ## ✨ Features
