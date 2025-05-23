@@ -6,7 +6,6 @@ A short, clear description of your project and its purpose.
 ## 📖 Table of Contents
 
 - [Demo](#demo)
-- [Features](#features)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
@@ -29,18 +28,9 @@ A short, clear description of your project and its purpose.
 ![Screenshot 2025-05-22 150703](https://github.com/user-attachments/assets/f50dfdc5-8c99-4dce-97bd-573d6d2d69e2)
 
 
+## 📖 Usage
+Random Inspiration on Demand:
+Users can click the button again at any time to receive a new, randomized quote, encouraging continued interaction and reflection.
 
 
-## ✨ Features
-
-- Feature 1 – e.g., Responsive layout
-- Feature 2 – e.g., RESTful API integration
-- Feature 3 – e.g., Dark mode toggle
-- Feature 4 – e.g., User authentication with JWT
-
-## 🛠 Installation
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/project-name.git
 
