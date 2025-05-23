@@ -25,6 +25,7 @@ A short, clear description of your project and its purpose.
  #### This interaction encourages repeated engagement, offering users fresh inspiration with every click.
  #### The functionality is powered by JavaScript, which dynamically cycles through an array of quotes, ensuring variety and unpredictability. 
  #### The design maintains the app’s calming, space-themed aesthetic, reinforcing a sense of focus and contemplation.
+ 
 ![Screenshot 2025-05-22 150703](https://github.com/user-attachments/assets/f50dfdc5-8c99-4dce-97bd-573d6d2d69e2)
 
 
