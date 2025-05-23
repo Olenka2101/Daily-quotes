@@ -34,10 +34,10 @@ Users can click the button again at any time to receive a new, randomized quote,
 
 ## 💻Technologies Used
 
-HTML
-CSS
-Javascript
-GSAP
+⭐ HTML
+⭐ CSS
+⭐ Javascript
+⭐ GSAP
 
 
 
