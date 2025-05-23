@@ -32,5 +32,13 @@ A short, clear description of your project and its purpose.
 Random Inspiration on Demand:
 Users can click the button again at any time to receive a new, randomized quote, encouraging continued interaction and reflection.
 
+## 💻Technologies Used
+
+HTML
+CSS
+Javascript
+GSAP
+
+
 
 
